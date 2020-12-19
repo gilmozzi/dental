@@ -418,6 +418,7 @@ a.site-logo img {
     width: 600px;
     height: 700px;
     object-fit: cover;
+    object-position: -470px 0;
   }
 
   .slogan h1 {

@@ -484,7 +484,9 @@ a.site-logo img {
     width: 100%;
     height: 700px;
     object-fit: cover;
+    object-position: 0;
   }
+
 
   .slogan h1 {
     font-size: 2rem;
